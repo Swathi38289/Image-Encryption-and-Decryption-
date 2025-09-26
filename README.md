@@ -33,7 +33,6 @@ Run: Execute the Python script (in VS Code) to encrypt, store key metadata on th
 
 Bash
 
-# Encrypts, records key, and decrypts
+Encrypts, records key, and decrypts
 python aes_image_encry_decry.py
 
-Guide: Dr. USHA DESAI, Professor, CSE (IoT & CSBT).
